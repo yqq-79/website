@@ -1,4 +1,4 @@
-URL: https://steve-qin-bioinfo-lab.github.io/
+URL: https://steveqin-bioinfo-emory-lab.github.io/website/
 
 ## Contents
 
