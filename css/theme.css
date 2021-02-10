@@ -446,9 +446,9 @@ img.float-right {
 img.float-right1 {
 	float: right;
 	margin-top: 0px;
-	margin-right: 5px;
-	margin-bottom: 12px;
-	margin-left: 40px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
 }
 
 img.publications-thumb {
