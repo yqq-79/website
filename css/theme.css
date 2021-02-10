@@ -443,6 +443,14 @@ img.float-right {
 	margin-left: 30px;
 }
 
+img.float-right1 {
+	float: right;
+	margin-top: 0px;
+	margin-right: 5px;
+	margin-bottom: 12px;
+	margin-left: 40px;
+}
+
 img.publications-thumb {
 	width: 142px;
 	height: 188px;
