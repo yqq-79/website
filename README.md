@@ -1,4 +1,3 @@
-URL: http://steveqinlab.org/
 
 ## Contents
 
